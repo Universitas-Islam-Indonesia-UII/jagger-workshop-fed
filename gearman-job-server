@@ -1,0 +1,3 @@
+PARAMS="--listen=127.0.0.1 \
+ --daemon \
+ --log-file=/var/log/gearman-job-server/gearmand.log"
